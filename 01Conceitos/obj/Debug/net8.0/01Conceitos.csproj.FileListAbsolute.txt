@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\bin\Debug\net8.0\01Conceitos.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\bin\Debug\net8.0\01Conceitos.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\bin\Debug\net8.0\01Conceitos.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\bin\Debug\net8.0\01Conceitos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\bin\Debug\net8.0\01Conceitos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\01Conceitos.sourcelink.json
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\01Conceitos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\refint\01Conceitos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\01Conceitos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\01Conceitos.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\OOP-C#\01Conceitos\obj\Debug\net8.0\ref\01Conceitos.dll
