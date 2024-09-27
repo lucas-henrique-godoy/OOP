@@ -1,0 +1,15 @@
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.exe
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.deps.json
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.runtimeconfig.json
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.dll
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.pdb
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.sourcelink.json
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.dll
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\refint\03ExercicioEscolar.dll
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.pdb
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.genruntimeconfig.cache
+C:\Users\lucasgodoy\Desktop\OOP-CSHARP\03ExercicioEscolar\obj\Debug\net8.0\ref\03ExercicioEscolar.dll

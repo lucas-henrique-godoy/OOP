@@ -1,6 +1,6 @@
 using System;
 
-namespace _02Métodos;
+
 
 class Pessoa  // EXEMPLO DE SOBRECARGA DE MÉTODOS.
 {

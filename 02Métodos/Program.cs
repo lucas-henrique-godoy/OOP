@@ -1,6 +1,6 @@
 ﻿using System;
-namespace _02Métodos;
 
+namespace _02Métodos;
 class Program
 {
     static void Main(string[] args)
