@@ -1,7 +1,20 @@
-						OOP C#
+								OOP C#
 
 - PUBLIC: Quer dizer que qualquer arquivo .cs vai ter acesso, visualização, visibilidade do meu atributo ou do método.
+
 - VOID: Indica que uma função não retorna nenhum valor. É usado quando não precisamos armazenar resultados ou realizar cálculos, mas apenas queremos exibir algo na tela.
+
 - Instanciar: Criar alguma coisa a partir de um molde.
 
+- Em C#, é uma prática recomendada que o nome da classe seja o mesmo que o nome do arquivo .cs. Isso facilita a organização do código e a manutenção, além de ser uma convenção seguida pela maioria dos desenvolvedores.
+
+Por exemplo, se você tem um arquivo chamado MinhaClasse.cs, a definição da classe dentro desse arquivo deve ser:
+
+public class MinhaClasse
+{
+    // Código da classe aqui
+}
+Essa convenção ajuda a evitar confusões, especialmente em projetos maiores. Embora não seja uma exigência obrigatória da linguagem, segui-la é uma boa prática.
+
+______________________________________________________________________________________________
 -OBS: Se estiver em uma versão anterior a 6 do .NET use o comando: dotnet new console para criar um novo projeto de aplicativo de console no .NET com a estrutura tradicional que inclui o método Main. Mas, se estiver utilizando a versão 6 ou superior do .NET, não terá mais essa estrutura inicial com o public static void main, caso queira criar um projeto com essa estrutura,uilizar o comando: dotnet new console --use-program-main.
