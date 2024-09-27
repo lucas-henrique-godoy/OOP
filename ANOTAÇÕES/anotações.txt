@@ -6,8 +6,20 @@
 
 - Instanciar: Criar alguma coisa a partir de um molde.
 
-- Em C#, é uma prática recomendada que o nome da classe seja o mesmo que o nome do arquivo .cs. Isso facilita a organização do código e a manutenção, além de ser uma convenção seguida pela maioria dos desenvolvedores. Toda classe deve começar com letra maiúscula por covenção do C#.
+______________________________________________________________________________________________
+- Quando eu retorno(uso o return), eu posso armazenar o valor em uma variavel ou utilizar como parâmetro para outro método. Quando você utiliza o return em um método em C#, o valor retornado pode ser:
 
+Armazenado em uma variável:
+
+double media = calcularMedia();
+
+Utilizado como argumento para outro método:
+
+exibirSituacao(calcularMedia());
+Isso permite que você reutilize o valor retornado de maneiras flexíveis em seu código. 
+
+______________________________________________________________________________________________
+- Em C#, é uma prática recomendada que o nome da classe seja o mesmo que o nome do arquivo .cs. Isso facilita a organização do código e a manutenção, além de ser uma convenção seguida pela maioria dos desenvolvedores. Toda classe deve começar com letra maiúscula por covenção do C#.
 Por exemplo, se você tem um arquivo chamado MinhaClasse.cs, a definição da classe dentro desse arquivo deve ser:
 
 public class MinhaClasse
