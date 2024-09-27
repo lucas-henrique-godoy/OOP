@@ -9,8 +9,8 @@ class Program
        // Instanciar obejto da classe Aluno
        Aluno a = new Aluno();
        a.nome = "Lucas";
-       a.nota1 = 8;
-       a.nota2 = 10;
+       a.nota1 = 5;
+       a.nota2 = 3;
        a.mensagem();      
     }
 }
