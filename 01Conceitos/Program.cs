@@ -1,4 +1,6 @@
-﻿namespace _01Conceitos;
+﻿using System;
+
+namespace _01Conceitos;
 
 class Program
 {
