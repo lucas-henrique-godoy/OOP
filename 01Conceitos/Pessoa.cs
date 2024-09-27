@@ -7,20 +7,9 @@ class Pessoa
     public int idade;     
 
     // Métodos
-    public void Mensagem()
+    public void mensagem()
     {
         Console.WriteLine("Olá " + nome + ", você tem " + idade + " anos.");
     }
 }
 
-// Exemplo de uso
-class Program
-{
-    static void Main()
-    {
-        Pessoa pessoa = new Pessoa();
-        pessoa.nome = "Lucas";
-        pessoa.idade = 27;
-        pessoa.Mensagem(); // Saída: Olá Lucas, você tem 27 anos.
-    }
-}
