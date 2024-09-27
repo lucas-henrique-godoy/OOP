@@ -3,3 +3,5 @@
 - PUBLIC: Quer dizer que qualquer arquivo .cs vai ter acesso, visualização, visibilidade do meu atributo ou do método.
 - VOID: Indica que uma função não retorna nenhum valor. É usado quando não precisamos armazenar resultados ou realizar cálculos, mas apenas queremos exibir algo na tela.
 - Instanciar: Criar alguma coisa a partir de um molde.
+
+-OBS: Se estiver em uma versão anterior a 6 do .NET use o comando: dotnet new console para criar um novo projeto de aplicativo de console no .NET com a estrutura tradicional que inclui o método Main. Mas, se estiver utilizando a versão 6 ou superior do .NET, não terá mais essa estrutura inicial com o public static void main, caso queira criar um projeto com essa estrutura,uilizar o comando: dotnet new console --use-program-main.
