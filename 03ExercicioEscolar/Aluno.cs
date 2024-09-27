@@ -2,38 +2,36 @@ using System;
 
 class Aluno 
 {
-    // Atributos
-    public string nome;
-    public double nota1, nota2;
+    // Atributos da classe Aluno
+    public string nome;      // Nome do aluno
+    public double nota1;     // Primeira nota do aluno
+    public double nota2;     // Segunda nota do aluno
 
-
-
-    // Método de Média
+    // Método para calcular a média das notas
     public double media()
     {
+        // Retorna a média aritmética das duas notas
         return (nota1 + nota2) / 2;
     }
 
-
-    // Método de Situação
+    // Método para determinar a situação do aluno com base na média
     public string situacao(double media)
     {
-       return media >= 7 ? "Aprovado" : "Reprovado"; //usando operador ternário.
+        // Retorna "Aprovado" se a média for maior ou igual a 7,
+        // caso contrário, retorna "Reprovado". Usa operador ternário.
+        return media >= 7 ? "Aprovado" : "Reprovado";
     }
 
-
-    // Método de Mensagem
+    // Método para exibir uma mensagem com a situação do aluno
     public void mensagem()
     {
-        // Obter  a média
+        // Chama o método media() para calcular a média e armazena o resultado
         double obterMedia = media();
 
-        // Obter a situação
+        // Chama o método situacao() passando a média para determinar a situação do aluno
         string obterSituacao = situacao(obterMedia);
 
-        // Mensagem
+        // Exibe a mensagem com o nome do aluno, sua situação e média
         Console.WriteLine(nome + " está " + obterSituacao + " com média " + obterMedia);
     }
-
-
 }
