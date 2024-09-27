@@ -2,3 +2,4 @@
 
 - PUBLIC: Quer dizer que qualquer arquivo .cs vai ter acesso, visualização, visibilidade do meu atributo ou do método.
 - VOID: Indica que uma função não retorna nenhum valor. É usado quando não precisamos armazenar resultados ou realizar cálculos, mas apenas queremos exibir algo na tela.
+- Instanciar: Criar alguma coisa a partir de um molde.
