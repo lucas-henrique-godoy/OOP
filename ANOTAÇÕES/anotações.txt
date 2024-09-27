@@ -17,4 +17,49 @@ public class MinhaClasse
 Essa convenção ajuda a evitar confusões, especialmente em projetos maiores. Embora não seja uma exigência obrigatória da linguagem, segui-la é uma boa prática.
 
 ______________________________________________________________________________________________
+
+- Em C# nós podemos ter vários métodos com o mesmo nome, desde que eles tenham parâmetros diferentes.Isso se chama sobrecarga de métodos. Em C#, você pode ter vários métodos com o mesmo nome, desde que eles tenham assinaturas diferentes, o que geralmente se refere ao número ou tipo de parâmetros.
+
+Aqui está um exemplo simples:
+
+public class Calculadora
+{
+    // Método que soma dois inteiros
+    public int Somar(int a, int b)
+    {
+        return a + b;
+    }
+
+    // Método que soma três inteiros
+    public int Somar(int a, int b, int c)
+    {
+        return a + b + c;
+    }
+
+    // Método que soma dois números de ponto flutuante
+    public double Somar(double a, double b)
+    {
+        return a + b;
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Calculadora calc = new Calculadora();
+
+        // Chamadas dos métodos sobrecarregados
+        int soma1 = calc.Somar(5, 10);          // Chama o método com dois inteiros
+        int soma2 = calc.Somar(5, 10, 15);      // Chama o método com três inteiros
+        double soma3 = calc.Somar(5.5, 10.5);   // Chama o método com dois doubles
+
+        Console.WriteLine(soma1); // Saída: 15
+        Console.WriteLine(soma2); // Saída: 30
+        Console.WriteLine(soma3); // Saída: 16
+    }
+}
+Neste exemplo, a classe Calculadora possui três métodos Somar, cada um com uma assinatura diferente. No método Main, você pode ver como cada versão do método Somar é chamada com diferentes tipos ou números de parâmetros.
+______________________________________________________________________________________________
+
 -OBS: Se estiver em uma versão anterior a 6 do .NET use o comando: dotnet new console para criar um novo projeto de aplicativo de console no .NET com a estrutura tradicional que inclui o método Main. Mas, se estiver utilizando a versão 6 ou superior do .NET, não terá mais essa estrutura inicial com o public static void main, caso queira criar um projeto com essa estrutura,uilizar o comando: dotnet new console --use-program-main.

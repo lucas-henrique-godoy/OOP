@@ -1,9 +1,13 @@
-﻿namespace _02Métodos;
+﻿using System;
+namespace _02Métodos;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Pessoa pessoa = new Pessoa();
+        pessoa.apresentar();
+        pessoa.apresentar("Lucas");
+        pessoa.apresentar("Lucas", 27);
     }
 }
