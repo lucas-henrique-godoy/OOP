@@ -5,9 +5,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Pessoa pessoa = new Pessoa();
-        pessoa.apresentar();
-        pessoa.apresentar("Lucas");
-        pessoa.apresentar("Lucas", 27);
+        Pessoa obj = new Pessoa();
+        obj.apresentar();
+        obj.apresentar("Lucas");
+        obj.apresentar("Lucas", 27);
     }
 }
