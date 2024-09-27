@@ -2,7 +2,7 @@ using System;
 
 namespace _02Métodos;
 
-class Pessoa
+class Pessoa  // EXEMPLO DE SOBRECARGA DE MÉTODOS.
 {
     // Método 01 - SEM PARÂMETRO
     public void apresentar()
